@@ -1,5 +1,5 @@
 # 😊 Zheng Li   
-<img src="images/me.png" alt="Me" width="200" align="right" style="margin-left:30px; margin-bottom:10px;" />
+<img src="images/me.png" alt="Me" width="180" align="right" style="margin-left:30px; margin-bottom:10px;" />
 
 Welcome to my research repository! 📚 My work centers on local causal discovery and inference, particularly in scenarios involving latent variables. I am interested in developing methods that uncover hidden causal relationships and enable robust statistical inference, even when some variables are unobserved. These approaches have broad applications in machine learning and statistics, including improving model interpretability, enhancing causal effect estimation, and advancing the understanding of complex data-generating processes.
 
