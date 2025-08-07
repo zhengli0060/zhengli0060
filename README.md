@@ -28,7 +28,7 @@ Welcome to my research repository. My work centers on local causal discovery and
 
 - [**Local Identifying Causal Relations in the Presence of Latent Variables**](https://openreview.net/pdf?id=O6q2BHK1BL)  
   **Z. Li***, Z. Liu*, F. Xie, H. Zhang, C. Liu, Z. Geng  
-  *Forty-second International Conference on Machine Learning (ICML 2025， <span style="color:red">Spotlight, TOP 2.6%</span>)* 
+  *Forty-second International Conference on Machine Learning (ICML 2025, <span style="color:red">Spotlight, TOP 2.6%</span>)* 
 
 
 
