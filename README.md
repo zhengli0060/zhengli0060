@@ -22,16 +22,16 @@ Welcome to my research repository! 📚 My work centers on local causal discover
 
 - [**Local causal structure learning in the presence of latent variables**](https://openreview.net/pdf?id=3KMMPxrAk5)  
   F. Xie, **Z. Li**, P. Wu, Y. Zeng, C. Liu, Z. Geng  
-  *Forty-first International Conference on Machine Learning (ICML 2024)*
+  *ICML 2024*
 
 - [**Local Identifying Causal Relations in the Presence of Latent Variables**](https://openreview.net/pdf?id=O6q2BHK1BL)  
   **Z. Li***, Z. Liu*, F. Xie, H. Zhang, C. Liu, Z. Geng  
-  *Forty-second International Conference on Machine Learning (ICML 2025, <span style="color:red">Spotlight, TOP 2.6%</span>)* 
+  *ICML 2025, <span style="color:red">Spotlight, TOP 2.6%</span>* 
 
 
 - [**Local Learning for Covariate Selection in Nonparametric Causal Effect Estimation with Latent Variables**](https://arxiv.org/pdf/2411.16315)  
   **Z. Li**, F. Xie, X. Guo, Y. Zeng, H. Zhang, Z. Geng  
-  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)*
+  *NeurIPS 2025*
 
 ## 📧 Contact 
 
