@@ -30,7 +30,7 @@ Welcome to my research repository! 📚 My work centers on local causal discover
 
 
 - [**Local Learning for Covariate Selection in Nonparametric Causal Effect Estimation with Latent Variables**](https://arxiv.org/pdf/2411.16315)  
-  **Z. Li**, F. Xie, X. Guo, Y. Zeng, H. Zhang, Z. Geng  
+  **Z. Li**, X. Guo, F. Xie, Y. Zeng, H. Zhang, Z. Geng  
   *NeurIPS 2025*
 
 ## 📧 Contact 
